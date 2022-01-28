@@ -17,6 +17,6 @@ describe('calculator tests', function () {
         homepage.enterseconNumber('2');
         homepage.ClickGo1();
         homepage.verifyNmber('3');
-        browser.sleep('2000')
+        browser.sleep('3000')
     });
 });
